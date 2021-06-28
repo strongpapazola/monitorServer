@@ -1,0 +1,5 @@
+MODE='client' # [master/node]
+
+# if master
+WEBDIR='/var/www/html' # apache2 [/var/www/html]
+
